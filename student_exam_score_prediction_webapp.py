@@ -73,7 +73,7 @@ def default_feature_explanation(col):
 
 # --- Sidebar ---
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/1995/1995604.png", width=110)
+    st.image("https://www.freepik.com/free-vector/hand-drawn-black-teacher-clipart-illustration_86770507.htm#fromView=search&page=1&position=1&uuid=a82f8e54-3389-4bc3-9bfb-b92fa5c2b187&query=teacher", width=110)
     st.title("Exam Score Predictor")
     st.markdown("---")
     st.write("<div class='small'>Model automatically loads from local joblib file.</div>", unsafe_allow_html=True)
